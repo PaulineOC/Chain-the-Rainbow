@@ -1,5 +1,5 @@
 # Chain-the-Rainbow
-Game prototype details for final project of Intro to Game Design (Fall 2016). Completed in a team of 3. 
+Game prototype details for final project of Intro to Game Design (Fall 2016). Completed in a team of 3 with Keya You and Rachel Geng. 
 
 
 Chain the Rainbow is a strategic abstract game where players attempt to secure the most of their
@@ -9,8 +9,8 @@ Rules can be viewed here: <a href="rulebook.pdf"> rules </a>
 
 Sample Images Compiled from team members:
 <ul>
-	<li><img src="A.jpg" height="300" width="225"></img></li>
-	<li><img src="B.jpg"></img></li>
-	<li><img src="C.jpg"></img></li>
-	<li><img src="D.jpg" height="300" width="400"></img></li>
+	<li><img src="A.jpg" height="300" width="225"></li>
+	<li><img src="B.jpg" height="300" width="225"></li>
+	<li><img src="C.jpg" height="300" width="225"></li>
+	<li><img src="D.jpg" height="300" width="400"></li>
 </ul>
